@@ -1,0 +1,3 @@
+- bảng product gồm mã sản phẩm, tên sản phẩm, loại sản phẩm ,mô tả sản phẩm, vật liệu cấu thành, trọng lượng, 
+- tạo 4 bảng gồm có product gold type, gold type, product gem type, gem type
+- bảng vật liệu 
