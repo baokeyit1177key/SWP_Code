@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integers", "Integers\Integers.csproj", "{D40E7B55-DF9D-482E-BD6E-B34738ABC468}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergersV2", "IntergersV2\IntergersV2.csproj", "{6615180A-D74A-418B-875A-F8BD84F140F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntergersV3", "IntergersV3\IntergersV3.csproj", "{A18C3559-7CAD-4AD4-AFE9-58FE97FFE263}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40E7B55-DF9D-482E-BD6E-B34738ABC468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40E7B55-DF9D-482E-BD6E-B34738ABC468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40E7B55-DF9D-482E-BD6E-B34738ABC468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40E7B55-DF9D-482E-BD6E-B34738ABC468}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6615180A-D74A-418B-875A-F8BD84F140F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6615180A-D74A-418B-875A-F8BD84F140F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6615180A-D74A-418B-875A-F8BD84F140F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6615180A-D74A-418B-875A-F8BD84F140F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A18C3559-7CAD-4AD4-AFE9-58FE97FFE263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18C3559-7CAD-4AD4-AFE9-58FE97FFE263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18C3559-7CAD-4AD4-AFE9-58FE97FFE263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18C3559-7CAD-4AD4-AFE9-58FE97FFE263}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891EBBC8-D6F6-4849-A987-7FF014D777E0}
+	EndGlobalSection
+EndGlobal
