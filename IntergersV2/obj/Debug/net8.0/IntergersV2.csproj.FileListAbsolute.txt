@@ -1,0 +1,14 @@
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.AssemblyInfoInputs.cache
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.AssemblyInfo.cs
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.csproj.CoreCompileInputs.cache
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\bin\Debug\net8.0\IntergersV2.exe
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\bin\Debug\net8.0\IntergersV2.deps.json
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\bin\Debug\net8.0\IntergersV2.runtimeconfig.json
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\bin\Debug\net8.0\IntergersV2.dll
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\bin\Debug\net8.0\IntergersV2.pdb
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.dll
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\refint\IntergersV2.dll
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.pdb
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\IntergersV2.genruntimeconfig.cache
+D:\PRN__GIAOLANG\SS02-Lang\Numbers\IntergersV2\obj\Debug\net8.0\ref\IntergersV2.dll
